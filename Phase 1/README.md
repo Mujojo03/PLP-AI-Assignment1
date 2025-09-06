@@ -1,4 +1,4 @@
-Business Name
+Business Name :
 NeuroBrand Lab 🧠
 
 Tagline
